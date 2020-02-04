@@ -7,3 +7,5 @@ First Edit and Commit Via TortoiseGIT
 Second Edit and Commit via TortoiseGIT
 
 Third Edit and Commit via TortoiseGIT Branch
+
+Fourth Edit and Commit via Feature Branch
